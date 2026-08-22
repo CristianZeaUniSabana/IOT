@@ -7,17 +7,11 @@
 ## Prompts utilizados
 
 ### Prompt 1 — Diseño de arquitectura (Gemini)
-[pegar aquí el prompt completo que me compartiste]
+como podria ser la arquitectura de un sistema de monitoreo en tiempo real para un tanque/fuente hídrica utilizando un microcontrolador ESP32 DevKit V1
 
 **Resultado generado:** diagrama de arquitectura por capas, tabla de
 justificación de componentes, diagrama de señales, flujo de
 procesamiento Edge y definición de interfaz de actuación.
-
-**Validación del equipo:** se revisó que los pines y protocolos
-propuestos (I2C, GPIO, ADC) fueran compatibles con el ESP32 DevKit V1
-real; se ajustó [lo que hayan cambiado, ej. "el nombre de las
-variables" o "se corrigió que faltaba el sensor UV en el circuito
-armado en Wokwi"].
 
 ### Prompt 2 — Revisión de código y checklist de requisitos (Claude)
 Se usó Claude para verificar que el firmware (`aquasense.ino`)
