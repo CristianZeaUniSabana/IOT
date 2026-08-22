@@ -29,18 +29,6 @@ Ver la [Wiki completa del proyecto](https://github.com/CristianZeaUniSabana/IOT/
 | Indicador | Semáforo de LEDs (verde/amarillo/rojo) | Estado del riesgo hídrico |
 | Alerta sonora | Buzzer piezoeléctrico | Alerta audible según gravedad |
 
-## Estructura del repositorio
-
-```
-IOT/
-├── firmware/
-│   └── aquasense.ino       # Código fuente del ESP32
-├── docs/
-│   ├── diagrama-conexiones.png
-│   └── uso-transparente-de-IA.md
-└── README.md
-```
-
 ## Cómo correr la simulación
 
 1. Abre el link de Wokwi de arriba.
