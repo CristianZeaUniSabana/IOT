@@ -17,6 +17,8 @@ Ver la [Wiki completa del proyecto](https://github.com/CristianZeaUniSabana/IOT/
 
 🔗 **Simulación en Wokwi:** [wokwi.com/projects/472973110009658369](https://wokwi.com/projects/472973110009658369)
 
+<img width="560" height="358" alt="image" src="https://github.com/user-attachments/assets/6fa52bdc-b815-4365-bc04-955b0b114978" />
+
 ## Componentes principales
 
 | Componente | Modelo | Función |
