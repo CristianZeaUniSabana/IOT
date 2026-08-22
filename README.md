@@ -34,4 +34,3 @@ Ver la [Wiki completa del proyecto](https://github.com/CristianZeaUniSabana/IOT/
 1. Abre el link de Wokwi de arriba.
 2. Dale click a ▶️ Start Simulation.
 3. Observa el LCD, el semáforo de LEDs y el buzzer reaccionando a los cambios de nivel de agua y condiciones ambientales.
-4. El código fuente también está disponible en [`firmware/aquasense.ino`](firmware/aquasense.ino) para revisión o modificación en el Arduino IDE.
