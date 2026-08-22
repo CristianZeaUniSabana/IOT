@@ -47,7 +47,3 @@ IOT/
 2. Dale click a ▶️ Start Simulation.
 3. Observa el LCD, el semáforo de LEDs y el buzzer reaccionando a los cambios de nivel de agua y condiciones ambientales.
 4. El código fuente también está disponible en [`firmware/aquasense.ino`](firmware/aquasense.ino) para revisión o modificación en el Arduino IDE.
-
-## Uso de Inteligencia Artificial
-
-Este proyecto usó herramientas de IA como apoyo en el desarrollo. El detalle de prompts, consultas y validaciones se documenta en [`docs/uso-transparente-de-IA.md`](docs/uso-transparente-de-IA.md), conforme a la restricción regulatoria del reto.
