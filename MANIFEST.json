@@ -1,0 +1,14 @@
+{
+  "package": "AQUASENSE firmware + MQTT anomaly detection service",
+  "firmware_modified": false,
+  "original_filename": "CodigoESP32.txt",
+  "firmware_sha256": "bfa5f496b4441c6321632f3c730b16c2e9b8b9a0d2ffd13739d6f319f15857dc",
+  "firmware_bytes": 40187,
+  "ai_location": "External Python service over MQTT; not running on ESP32",
+  "mqtt_input_topic": "aquasense/nodo1/telemetria",
+  "mqtt_output_topic": "aquasense/nodo1/ia",
+  "notes": [
+    "ESP32 firmware copies are byte-for-byte identical to the uploaded CodigoESP32.txt.",
+    "AI output is not integrated into the existing ESP32 web dashboard."
+  ]
+}
